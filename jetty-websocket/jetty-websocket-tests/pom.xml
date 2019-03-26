@@ -16,7 +16,7 @@
 
     <build>
         <plugins>
-          <plugin>
+       <!--    <plugin>
           <groupId>org.apache.felix</groupId>
           <artifactId>maven-bundle-plugin</artifactId>
           <extensions>true</extensions>
@@ -35,7 +35,7 @@
               </configuration>
             </execution>
           </executions>
-        </plugin>
+        </plugin>--> 
       </plugins>
     </build>
 
